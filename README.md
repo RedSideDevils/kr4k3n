@@ -1,4 +1,4 @@
-# DeadDNS
+# Kr4k3n Backdoor Tool
  Multi-threaded **DNS hijacking** via **dead records** automation tool
 
 ## How it works
