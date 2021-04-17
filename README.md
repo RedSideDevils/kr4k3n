@@ -11,6 +11,7 @@ Using this tool you can easily and fast generate target file that will give you 
 - Directory Movement
 
 ## Installation:
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 One line installation:
 ```
 $ git clone git@github.com:YanOScompany/kr4k3n && cd kr4k3n && chmod 755 install.sh && ./install.sh
