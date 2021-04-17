@@ -16,12 +16,12 @@ Using this tool you can easily and fast generate target file that will give you 
 
 One line installation:
 ```
-$ git clone git@github.com:YanOScompany/kr4k3n && cd kr4k3n && chmod 755 install.sh && ./install.sh
+$ git@github.com:YanOScompany/kr4k3n.git && cd kr4k3n && chmod 755 install.sh && ./install.sh
 ```
 
 Simple and quick installation:
 ```
-$ git clone git@github.com:YanOScompany/kr4k3n
+$ git@github.com:YanOScompany/kr4k3n.git
 $ cd kr4k3n
 $ chmod 755 install.sh && ./install.sh
 ```
