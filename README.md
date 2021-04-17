@@ -11,7 +11,7 @@ Using this tool you can easily and fast generate target file that will give you 
 - Directory Movement
 
 ## Installation:
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 One line installation:
 ```
 $ git clone git@github.com:YanOScompany/kr4k3n && cd kr4k3n && chmod 755 install.sh && ./install.sh
@@ -26,10 +26,10 @@ $ chmod 755 install.sh && ./install.sh
 
 ## Usage:
 
+[![Video Tutorial](https://www.youtube.com/watch?v=b4WSImA3avQ)
+
 Example usage:
 ```
-[![Video Tutorial](https://www.youtube.com/watch?v=b4WSImA3avQ)
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 1. Generate file | python2 Generate.py 127.0.0.1 8888 or to compile to exe add --compile (make sure that you have install pyinstaller)
 2. Start kr4k3n and wait until your target connection. Example | python2 kr4k3n.py 127.0.0.1 8888
