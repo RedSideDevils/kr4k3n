@@ -28,6 +28,7 @@ $ chmod 755 install.sh && ./install.sh
 Example usage:
 ```
 [![Video Tutorial](https://www.youtube.com/watch?v=b4WSImA3avQ)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 1. Generate file | python2 Generate.py 127.0.0.1 8888 or to compile to exe add --compile (make sure that you have install pyinstaller)
 2. Start kr4k3n and wait until your target connection. Example | python2 kr4k3n.py 127.0.0.1 8888
