@@ -5,7 +5,7 @@
 ```
 1) Run kr4k3n.py and generate target file with IP and PORT.
 2) Run kr4k3n.py and wait until target connection. 
-3) Use **kraken-help** command to see functions.
+3) Use kraken-help command to see functions.
 ```
 
 ![](https://j.gifs.com/jZoEJB.gif)
