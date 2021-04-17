@@ -26,7 +26,7 @@ $ chmod 755 install.sh && ./install.sh
 
 ## Usage:
 
-[![Video Tutorial](https://www.youtube.com/watch?v=b4WSImA3avQ)
+![Video Tutorial](https://www.youtube.com/watch?v=b4WSImA3avQ)
 
 Example usage:
 ```
