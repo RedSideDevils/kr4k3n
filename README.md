@@ -3,9 +3,9 @@
 
 ## How it works
 ```
-1) Dig provided subdomains file for dead DNS records.
-2) Dig the found dead DNS records for any interesting CNAME's. 
-3) Show which dead record points to the given CNAME.
+1) Run kr4k3n.py and generate target file with IP and PORT.
+2) Run kr4k3n.py and wait until target connection. 
+3) Use ***kraken-help*** command to see functions.
 ```
 
 ![](https://j.gifs.com/jZoEJB.gif)
