@@ -5,7 +5,10 @@
 
 ## How it works
 ```
-Using this tool you can easily and fast generate target file that will give you many features. Firstly, you can have access to target shell. Secondly, you can make file transfers between your and target machines. Thirdly, you can make directory movements.
+Using this tool you can easily and fast generate target file that will give you many features. 
+Firstly, you can have access to target shell. 
+Secondly, you can make file transfers between your and target machines. 
+Thirdly, you can make directory movements.
 ```
 ## Features
 - Reverse Shell
