@@ -8,7 +8,7 @@
 3) Use kraken-help command to see functions.
 ```
 
-![](https://j.gifs.com/jZoEJB.gif)
+![](https://www.youtube.com/watch?v=b4WSImA3avQ)
 
 ## Features
 - Multi-threading
