@@ -7,8 +7,6 @@
 2) Run kr4k3n.py and wait until target connection. Example | python2 kr4k3n.py 127.0.0.1 8888
 3) Use kraken-help command to see functions. 
 ```
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 ## Features
 - Reverse Shell
 - File Transfer
